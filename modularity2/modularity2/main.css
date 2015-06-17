@@ -1,0 +1,230 @@
+.align-center {
+	text-align: center;
+
+}
+
+.pad-r {
+	padding-right: 30px;
+}
+
+.top-spaced {
+	display: inline-block;
+	padding-right: 30px;
+	vertical-align: top;
+
+}
+
+.vertical-space {
+	padding: 100px 0px;
+}
+
+.horizontal {
+	display: inline;
+}
+
+.button {
+    height: 45px;
+    width: 125px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    vertical-align: middle;
+    line-height: 45px;
+
+}
+
+.button-1 {
+	height: 30px;
+    width: 115px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    vertical-align: middle;
+    line-height: 30px;
+
+}
+
+.button-2 {
+	height: 20px;
+    width: 30px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    vertical-align: middle;
+  	line-height: 20px;
+  	font-size: 12px
+}
+
+.button-3 {
+    height: 30px;
+    width: 140px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    vertical-align: middle;
+    line-height: 30px;
+}
+
+.button-4 {
+    height: 30px;
+    width: 125px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    vertical-align: middle;
+    line-height: 50%;
+    border: none;
+}
+
+.button-5 {
+    height: 30px;
+    width: 125px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    vertical-align: middle;
+    line-height: 50%;
+    border: none;
+}
+
+.nav-bar {
+	height: 30px;
+    width: 545px;
+    background-color: red;
+    vertical-align: middle;
+    line-height: 30px;
+    border-radius: 5px;
+}
+nav li {
+	display: inline-block;
+}
+
+.list-space1 {
+	padding: 0px 60px 0px 5px;
+
+}
+
+.list-space2 {
+	padding: 0px 60px 0px 0px;
+
+}
+
+.list-space3 {
+	padding: 0px 60px 0px 0px;
+
+}
+
+.list-space4 {
+	padding: 0px 60px 0px 0px;
+
+}
+
+.list-space5 {
+	padding: 0px 5px 0px 0px;
+
+}
+
+.color {
+	text-decoration: none;
+	color: white;
+}
+
+.pagination {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 10px;
+}
+
+.deco {
+	text-decoration: none;
+	color: red;
+}
+
+.numb-deco {
+	text-decoration: none;
+	color: red;
+}
+
+.pagination.selected {
+	border-bottom: 2px solid grey;
+	color: grey;
+}
+
+.border-bottom {
+	border-bottom: 3px solid red;
+}
+
+.stream-float {
+	float: left;
+	padding-right: 10px;
+}
+
+.stream-container {
+	clear: left;
+}
+
+.stream-content {
+	overflow: hidden;
+}
+
+.tab li {
+	padding: 3px 15px;
+	display: inline-block;
+	background-color: #FF9999;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+
+}
+
+.tab-lists a {
+	text-decoration: none;
+	color: black;
+
+}
+
+.push-f {
+	background-color: #FF9999;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.push-f a {
+	text-decoration: none;
+	color: white;
+}
+
+.tab-content {
+	background-color: #FF9999;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.tab-content p {
+	color: white;
+	position: relative;
+	top: 5px;
+	left: 5px;
+}
+
+.tab-hover:hover {
+	background-color: white;
+}
+
