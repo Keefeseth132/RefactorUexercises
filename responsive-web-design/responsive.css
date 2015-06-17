@@ -1,0 +1,93 @@
+body {
+	background-color: grey;
+	margin: auto;
+	padding-top: 50px;
+	max-width: 960px;
+	width: 70%
+}
+
+.banner {
+	height: 100px;
+	width: 100%;
+	background: url(samueljackson.jpg);
+	top: 0;
+	left: 0;
+}
+
+.nav-bar {
+	height: 30px;
+    background-color: red;
+    line-height: 30px;
+    max-width: 960px;
+    text-align: center;
+    margin: 0;
+    top: 0;
+    left: 0;
+
+}
+nav li {
+	display: inline-block;
+}
+
+.list-pad1 {
+	padding-right: 10%;
+
+}
+
+.list-pad2 {
+	padding-right: 10%;
+
+}
+
+.list-pad3 {
+	padding-right: 10%;
+
+}
+
+.list-pad4 {
+	padding-right: 10%;
+
+}
+
+.list-pad5 {
+	padding-right: 10%;
+
+}
+
+.color {
+	text-decoration: none;
+	color: white;
+}
+
+.main-content {
+	text-align: center;
+	overflow: hidden;
+}
+
+.third-p {
+	padding-top: 25px;
+	text-align: center;
+}
+
+.sam-large {
+	float: left;
+	padding-left: 2px;
+	padding-top: 10px;
+}
+
+.plain-image {
+	display: inline;
+	padding-left: 25px;
+}
+
+.gallery {
+	text-align: center;
+}
+
+@media(max-width: 760px) {
+	.plain-image {
+		display: block;
+		padding-bottom: 10px;
+		width: 100%;
+	}
+}
