@@ -1,0 +1,258 @@
+body {
+	background-color: #7f8c8d;
+	margin: auto; 
+	font-family: sans-serif;
+}
+
+.container {
+	max-width: 550px;
+	margin: 0 auto;
+	width: 70%;
+}
+
+.right-box {
+	background-color: #ecf0f1;
+	height: 200px; 
+	max-width: 175px;
+	margin-top: 246px;
+	margin-right: 25px;
+	border-bottom: 3px solid black;
+	padding: 5px;
+	float: right;
+
+}
+
+.recent-post {
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.right-box-small {
+	font-size: 14px;
+	padding-left: 20px;
+	padding-right: 5px;
+	color: #7f8c8d;
+	font-size: 13px;
+	
+
+}
+
+.right-box-small p {
+	margin: 5px;
+}
+
+.green-box {
+	max-width: 550px;
+	height: 200px;
+	background-color: #2ecc71;
+	border-bottom: 6px solid #27ae60;
+	margin: 0px;
+
+
+}
+
+.nav-bar {
+	height: 40px;
+    background-color: #34495e;
+    line-height: 30px;
+    max-width: 550px;
+    text-align: right;
+    margin: 0;
+	vertical-align: middle;
+	color: white;
+}
+
+.nav-bar li {
+	display: inline;
+	padding: 0px 10px;
+}
+
+.my-web {
+	color: white;
+	text-align: left;
+	padding: 5px;
+	margin-top: 19.920px;
+	padding-top: 160px;
+	padding-left: 10px;
+	font-size: 24px;
+	
+}
+
+
+.first-section {
+	max-width: 550px;
+	background-color: #ecf0f1;
+	margin-bottom: 20px;
+	top: 0;
+	padding: 10px;
+}
+
+.first-section h1,h2 {
+	text-align: left;
+}
+
+.padding {
+	padding-left: 30px;
+	font-size: 14px;
+}
+
+.table {
+	font-size: 14px;
+	border-collapse: collapse;
+}
+
+.table td {
+	border: 1px solid #bdc3c7;
+	padding: 5px;
+}
+
+.top-table-row {
+	background-color: #bdc3c7;
+	text-align: left;
+
+}
+
+.table-button {
+	width: 60px;
+	background-color: #3498db;
+	border: none;
+	padding: 5px;
+	color: white;
+}
+
+.code-box {
+	background-color: #bdc3c7;
+	padding: 5px 5px 5px 40px;
+	text-align: left;
+	margin: 0 auto;
+
+}
+
+.pre {
+	white-space: pre;
+}
+
+.place-holder {
+	padding: 5px 5px 5px 5px;
+}
+
+.faded-text {
+	color: #999;
+	font-size: 12px;
+	padding: 10px;
+}
+
+.user-text {
+	font-size: 12px;
+	color: #999;
+	background-color: #ecf0f1;
+	width: 70px;
+	margin: 0;
+	position: absolute;
+	top: -5px;
+	left: 20px;
+	padding-left: 8px;
+}
+
+.relative {
+	position: relative;
+}
+
+.line {
+	border-bottom: 1px solid black;
+	margin-bottom: 5px;
+}
+
+.sub-title {
+	font-size: 16px;
+}
+
+.ordered-list {
+	font-size: 14px;
+}
+
+.three-box {
+	text-align: right;
+	padding: 5px;
+	margin-right: 90px;
+
+}
+
+.three-box-container {
+	padding-top: 30px;
+}
+
+.input-size {
+	height: 20px;
+	width: 300px;
+}
+
+.third-input {
+	margin-bottom: 40px;
+
+}
+
+.text-box {
+	width: 500px;
+	height: 125px;
+	background-color: white;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.submit {
+	background-color: #c0392b;
+	color: white;
+	width: 507px;
+	height: 35px;
+	border: none;
+	margin-left: 10px;
+	margin-top: 25px;
+}
+
+.first-float-box {
+	float: left;
+	position: relative;
+	margin-top: 30px;
+	padding-right: 10px;
+}
+
+.middle-float-box {
+	float: left;
+	position: relative;
+	padding-right: 10px;
+}
+
+.faded-date {
+	color: #999;
+	margin: 2px;
+}
+
+.user {
+	margin: 0;
+	padding-top: 35px;
+	padding-left: 5px;
+
+}
+
+.middle-user {
+	margin: 0;
+	padding-left: 5px
+}
+
+.last-paragraphs {
+	font-size: 14px;
+	clear: left;
+
+}
+
+.middle-two {
+	padding-left: 10px;
+	border-left: 1px solid #999;
+	margin-left: 30px;
+}
+
+.user-date {
+	overflow: hidden;
+}

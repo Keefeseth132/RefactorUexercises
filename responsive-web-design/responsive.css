@@ -8,48 +8,25 @@ body {
 
 .banner {
 	height: 100px;
-	width: 100%;
 	background: url(samueljackson.jpg);
-	top: 0;
-	left: 0;
+	max-width: 960px;
 }
 
 .nav-bar {
-	height: 30px;
+	height: 4.5vh;
     background-color: red;
     line-height: 30px;
     max-width: 960px;
     text-align: center;
     margin: 0;
-    top: 0;
-    left: 0;
-
+	vertical-align: middle;
 }
 nav li {
 	display: inline-block;
-}
-
-.list-pad1 {
-	padding-right: 10%;
 
 }
 
-.list-pad2 {
-	padding-right: 10%;
-
-}
-
-.list-pad3 {
-	padding-right: 10%;
-
-}
-
-.list-pad4 {
-	padding-right: 10%;
-
-}
-
-.list-pad5 {
+.list-pad {
 	padding-right: 10%;
 
 }
@@ -59,12 +36,11 @@ nav li {
 	color: white;
 }
 
-.main-content {
+.first-paragraph {
 	text-align: center;
-	overflow: hidden;
 }
 
-.third-p {
+.alt-paragraphs {
 	padding-top: 25px;
 	text-align: center;
 }
@@ -89,5 +65,18 @@ nav li {
 		display: block;
 		padding-bottom: 10px;
 		width: 100%;
+	}
+	.nav-bar li {
+		display: block;
+		text-align: center;
+	}
+	.nav-bar {
+		padding-bottom: 20vh;
+	}
+	.sam-large {
+		padding-top: 4vh;
+	}
+	.first-paragraph {
+		padding-top: 10.5vh;
 	}
 }
